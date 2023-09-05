@@ -1,0 +1,27 @@
+.mainbody{
+    display: flex;
+    width: 85%;
+    min-height: 900px;
+    height: auto;
+    padding-left: 30px;
+    margin-top: 10px;
+    margin-right: -10px;
+    font-size: 20px;
+    /* text-align: center;
+    justify-content: center; */
+    /* place-items: center; */
+    background: #ffffff;
+    border: 2px solid red;
+}
+button{
+    margin-top: 380px;
+    margin-left: 50px;
+}
+.mid{
+    text-align: center;
+    justify-content: center;
+}
+.mid2{
+    justify-content: center;
+    place-items: center;
+}

@@ -1,0 +1,26 @@
+.laftsidebar{
+    width: 300px;
+    min-height: 900px;
+    height: auto;
+    background: #16213E;
+    padding-top: 30px;
+    margin-left: -10px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+}
+.laftsidebar1>a{
+    font-size: 30px;
+    margin-top: 15px;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    display: block;
+    
+}
+.laftsidebar1>a:hover{
+    color: white;
+    background: #1e2f5d;
+
+}

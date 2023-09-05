@@ -1,0 +1,52 @@
+*{
+    font-family: poppins;
+}
+.header{
+    width: 101%;
+    height: 80px;
+    display: flex;
+    place-items: center;
+    margin: -10px -10px;
+    background: #3F0071;
+}
+.headerlogo{
+    margin-left: 6%;
+}
+.headerlogo img{
+    height: 83px;
+    width: 100px;
+    background-color: white;
+}
+.headermeno{
+    margin-left: 30%;
+}
+.headermeno>a{
+    right: 30px;
+    font-size: 35px;
+    height: 80px;
+    padding: 20px 30px;
+    color: white;
+    text-decoration: none;
+}
+.headermeno>a:hover{
+    background: #540594;
+}
+.headerprofile{
+    text-align: right;
+    align-items: right;
+    margin-left: 6%;
+}
+.headerprofile a img{
+    align-items: center;
+    margin: 0px 30px;
+    height: 60px;
+    width: 60px;
+    border-radius: 60px;
+    display: block;
+}
+.headerprofile a img:hover{
+    height: 70px;
+    width: 70px;
+    border-radius: 70px;
+}
+

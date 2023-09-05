@@ -1,0 +1,5 @@
+1. path auto.
+2. make a account editor.
+3. add prodect in list.
+4. tabil make eith forin key.
+5. 
